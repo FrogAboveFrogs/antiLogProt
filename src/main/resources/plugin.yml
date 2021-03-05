@@ -1,0 +1,6 @@
+name: AntiLogProtection
+version: ${project.version}
+main: me.frog.antilogprotection.AntiLogProtection
+api-version: 1.16
+authors: [ Frog ]
+description: disable damage protection on logging in a server
